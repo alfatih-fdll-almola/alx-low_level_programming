@@ -2,7 +2,7 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* batty style doc for function main goes there */
+/* betty style doc for function main goes there */
 /**
  * main - Entry point
  *
